@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725500914 source:c:\users\supev\documents\eoq\udemy\algorithms_and_data_structures\02-pointerpractice\main.cpp
+	<iostream>
+	<stdlib.h>
+
